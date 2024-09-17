@@ -1,0 +1,35 @@
+.NavBar nav{
+    height: 72px;
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    align-items: center;
+}
+
+/* .NavBar nav .logo{
+    width: 76px;
+    height: 20px;
+} */
+
+.NavBar nav ul{
+    display: flex;
+    list-style: none;
+    gap: 24px;
+}
+.NavBar nav ul li{
+    font-size: 13px;
+    
+}
+.NavBar nav ul li a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+.NavBar nav button{
+    height: 31px;
+    font-size: 12px;
+
+
+}
